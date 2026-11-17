@@ -8,7 +8,7 @@ I do not use LinkedIn. This profile and my portfolio at [achillesrogan.com](http
 
 - Finishing a **B.S. in Cybersecurity and Information Assurance** at Western Governors University (expected March 2027)
 - Building and documenting a segmented home network and a home SOC lab
-- Maintaining [Biometric App Lock](https://github.com/achillesrogan/biometricapplock), an Android app that locks other apps behind a strong biometric bound to the Android Keystore (release 1.5)
+- Maintaining [Biometric App Lock](https://github.com/achillesrogan/biometricapplock), an Android app that locks other apps behind a strong biometric bound to the Android Keystore (release 1.8)
 - Building [Politidex](https://github.com/achillesrogan/politidex), an open-source, non-profit civic-data project that uses AI with verification against official sources
 - Open to full-time SOC, detection engineering, and AI-security roles
 
